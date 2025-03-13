@@ -1,1 +1,9 @@
 * linguist-language=SQL
+*.sql linguist-detectable
+*.json linguist-vendored
+*.xml linguist-vendored
+*.pdf linguist-generated
+*.png linguist-generated
+*.jpg linguist-generated
+*.md linguist-documentation
+
